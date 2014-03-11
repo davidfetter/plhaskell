@@ -27,7 +27,7 @@
 PG_MODULE_MAGIC;
 #endif
 
-#include "dist/build/PlHaskell_stub.h"
+#include "PlHaskell_stub.h"
 
 extern void _PG_init(void);
 
